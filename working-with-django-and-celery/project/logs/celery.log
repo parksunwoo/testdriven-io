@@ -1,0 +1,240 @@
+[2023-02-19 13:49:20,316: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-02-19 13:49:20,320: INFO/MainProcess] mingle: searching for neighbors
+[2023-02-19 13:49:21,332: INFO/MainProcess] mingle: all alone
+[2023-02-19 13:49:21,365: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2023-02-19 13:49:21,370: INFO/MainProcess] celery@12db8d870435 ready.
+[2023-02-19 13:50:14,140: INFO/MainProcess] Task tasks.sample_tasks.create_task[c5d1177f-2215-47e6-ba4d-012a517804d6] received
+[2023-02-19 13:50:44,189: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[c5d1177f-2215-47e6-ba4d-012a517804d6] succeeded in 30.050171387993032s: True
+[2023-02-19 13:50:50,761: INFO/MainProcess] Task tasks.sample_tasks.create_task[e536d6d9-4531-462c-a957-a035eb98e1c0] received
+[2023-02-19 13:51:10,772: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[e536d6d9-4531-462c-a957-a035eb98e1c0] succeeded in 20.00560642599885s: True
+[2023-02-19 13:53:57,613: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-02-19 13:53:57,617: INFO/MainProcess] mingle: searching for neighbors
+[2023-02-19 13:53:58,628: INFO/MainProcess] mingle: all alone
+[2023-02-19 13:53:58,646: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2023-02-19 13:53:58,648: INFO/MainProcess] celery@da61569ba023 ready.
+[2023-02-19 13:54:01,478: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-02-19 13:54:54,211: INFO/MainProcess] Task tasks.sample_tasks.create_task[7ee56691-68e0-4fbf-a79a-fe8aa1053053] received
+[2023-02-19 13:54:54,668: INFO/MainProcess] Task tasks.sample_tasks.create_task[b94a6f9c-a9c8-4f74-bea9-390e8524ba8e] received
+[2023-02-19 13:54:55,124: INFO/MainProcess] Task tasks.sample_tasks.create_task[98694db6-dd5d-428a-aebd-7cdb3c3a5249] received
+[2023-02-19 13:55:04,272: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[7ee56691-68e0-4fbf-a79a-fe8aa1053053] succeeded in 10.048265088000335s: True
+[2023-02-19 13:55:14,705: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[b94a6f9c-a9c8-4f74-bea9-390e8524ba8e] succeeded in 20.010937592996925s: True
+[2023-02-19 13:55:25,159: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[98694db6-dd5d-428a-aebd-7cdb3c3a5249] succeeded in 30.02880326400191s: True
+[2023-02-19 13:55:54,829: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-02-19 13:55:54,839: INFO/MainProcess] mingle: searching for neighbors
+[2023-02-19 13:55:54,842: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-02-19 13:55:54,856: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-02-19 13:55:54,863: INFO/MainProcess] mingle: searching for neighbors
+[2023-02-19 13:55:54,870: INFO/MainProcess] mingle: searching for neighbors
+[2023-02-19 13:55:55,874: INFO/MainProcess] mingle: all alone
+[2023-02-19 13:55:55,889: INFO/MainProcess] mingle: all alone
+[2023-02-19 13:55:55,889: INFO/MainProcess] mingle: all alone
+[2023-02-19 13:55:55,907: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2023-02-19 13:55:55,915: INFO/MainProcess] celery@56a34a78b464 ready.
+[2023-02-19 13:55:55,929: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2023-02-19 13:55:55,929: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2023-02-19 13:55:55,938: INFO/MainProcess] celery@2d4d7a65fc37 ready.
+[2023-02-19 13:55:55,943: INFO/MainProcess] celery@58b8f5ad150c ready.
+[2023-02-19 13:55:58,202: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-02-19 13:55:58,202: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-02-19 13:55:58,202: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-02-19 13:56:06,053: INFO/MainProcess] Task tasks.sample_tasks.create_task[5e455b25-1c0e-4545-8a96-f07bab7bf664] received
+[2023-02-19 13:56:06,236: INFO/MainProcess] Task tasks.sample_tasks.create_task[2f83828e-de02-47c1-b91b-b799f31201cc] received
+[2023-02-19 13:56:06,648: INFO/MainProcess] Task tasks.sample_tasks.create_task[cd4602c8-aed0-4e85-ad0f-1b1f58821e9b] received
+[2023-02-19 13:56:16,082: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[5e455b25-1c0e-4545-8a96-f07bab7bf664] succeeded in 10.023293546000787s: True
+[2023-02-19 13:56:26,265: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[2f83828e-de02-47c1-b91b-b799f31201cc] succeeded in 20.017281716995058s: True
+[2023-02-19 13:56:30,077: INFO/MainProcess] Task tasks.sample_tasks.create_task[93f143c2-de88-4f0c-bcc6-ca153d8a1484] received
+[2023-02-19 13:56:30,608: INFO/MainProcess] Task tasks.sample_tasks.create_task[99acc0a7-a5fe-44b3-87a1-7a3e30367d4c] received
+[2023-02-19 13:56:30,972: INFO/MainProcess] Task tasks.sample_tasks.create_task[239aec9d-6e3c-4993-a26e-0284a8662695] received
+[2023-02-19 13:56:31,451: INFO/MainProcess] Task tasks.sample_tasks.create_task[8cf66b1a-cfbc-41b9-9468-676948c6ea9a] received
+[2023-02-19 13:56:31,579: INFO/MainProcess] Task tasks.sample_tasks.create_task[cf08fd1e-5688-43d4-beb2-e6d5c9bc3d6a] received
+[2023-02-19 13:56:31,707: INFO/MainProcess] Task tasks.sample_tasks.create_task[938b4e53-a5d3-4be5-83fa-d1d28b597204] received
+[2023-02-19 13:56:31,836: INFO/MainProcess] Task tasks.sample_tasks.create_task[10d9a921-2988-419e-8264-a849b3d4b790] received
+[2023-02-19 13:56:31,956: INFO/MainProcess] Task tasks.sample_tasks.create_task[93afe493-1b1f-45b0-9303-b804af4417c2] received
+[2023-02-19 13:56:32,084: INFO/MainProcess] Task tasks.sample_tasks.create_task[cae5bf20-4b17-48bc-b551-291586ef70dc] received
+[2023-02-19 13:56:32,210: INFO/MainProcess] Task tasks.sample_tasks.create_task[7f3f23af-c043-4121-a47b-d6c6a097673e] received
+[2023-02-19 13:56:32,334: INFO/MainProcess] Task tasks.sample_tasks.create_task[ab0c3c01-e86b-43bd-9b54-9ffa16f435dc] received
+[2023-02-19 13:56:32,481: INFO/MainProcess] Task tasks.sample_tasks.create_task[8dc8a9fa-0824-45b4-9a26-f6fba0bf338a] received
+[2023-02-19 13:56:32,627: INFO/MainProcess] Task tasks.sample_tasks.create_task[27364de5-787e-4cbc-9140-f9890510372e] received
+[2023-02-19 13:56:32,775: INFO/MainProcess] Task tasks.sample_tasks.create_task[b5236f99-0439-4b87-979e-4d8d8ad9172e] received
+[2023-02-19 13:56:32,890: INFO/MainProcess] Task tasks.sample_tasks.create_task[fe3dd3fe-3b8a-4fd2-a61d-6f1d0088b26a] received
+[2023-02-19 13:56:33,031: INFO/MainProcess] Task tasks.sample_tasks.create_task[7aa38e3a-b7f2-4241-ad0d-db900fa9b4f0] received
+[2023-02-19 13:56:33,187: INFO/MainProcess] Task tasks.sample_tasks.create_task[35e19111-1aa2-466f-a636-96d89f2fa6a4] received
+[2023-02-19 13:56:33,319: INFO/MainProcess] Task tasks.sample_tasks.create_task[5347afb6-733a-458c-a2b8-a68ed8cea277] received
+[2023-02-19 13:56:33,485: INFO/MainProcess] Task tasks.sample_tasks.create_task[68386d21-a876-43dd-8fa4-7c2dcfd1a321] received
+[2023-02-19 13:56:33,628: INFO/MainProcess] Task tasks.sample_tasks.create_task[7bc44f65-8db3-4080-9206-3f9b4a63a391] received
+[2023-02-19 13:56:33,755: INFO/MainProcess] Task tasks.sample_tasks.create_task[ce48a84c-9873-4a38-bf7a-f8ecc91ee688] received
+[2023-02-19 13:56:33,901: INFO/MainProcess] Task tasks.sample_tasks.create_task[eaccd608-78b0-45e8-9f15-6fbc0e55df66] received
+[2023-02-19 13:56:34,025: INFO/MainProcess] Task tasks.sample_tasks.create_task[cd47a4e2-9eff-41d8-a96e-7916a48d0cb8] received
+[2023-02-19 13:56:34,171: INFO/MainProcess] Task tasks.sample_tasks.create_task[0ea9e55d-e78f-4fd9-be27-ac0c9870a55b] received
+[2023-02-19 13:56:34,312: INFO/MainProcess] Task tasks.sample_tasks.create_task[68efe045-b24e-439c-b68b-5c46fa10a1a1] received
+[2023-02-19 13:56:34,453: INFO/MainProcess] Task tasks.sample_tasks.create_task[df69e199-044a-4b3d-8e64-c693396b386a] received
+[2023-02-19 13:56:36,678: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[cd4602c8-aed0-4e85-ad0f-1b1f58821e9b] succeeded in 30.016315181004757s: True
+[2023-02-19 13:56:40,093: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[93f143c2-de88-4f0c-bcc6-ca153d8a1484] succeeded in 10.008719962999749s: True
+[2023-02-19 13:56:40,648: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[99acc0a7-a5fe-44b3-87a1-7a3e30367d4c] succeeded in 10.016051712998888s: True
+[2023-02-19 13:56:41,012: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[239aec9d-6e3c-4993-a26e-0284a8662695] succeeded in 10.023679880003328s: True
+[2023-02-19 13:56:41,491: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[8cf66b1a-cfbc-41b9-9468-676948c6ea9a] succeeded in 10.02612713000417s: True
+[2023-02-19 13:56:41,624: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[cf08fd1e-5688-43d4-beb2-e6d5c9bc3d6a] succeeded in 10.020404087998031s: True
+[2023-02-19 13:56:41,739: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[938b4e53-a5d3-4be5-83fa-d1d28b597204] succeeded in 10.016770130001532s: True
+[2023-02-19 13:56:41,861: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[10d9a921-2988-419e-8264-a849b3d4b790] succeeded in 10.011298130004434s: True
+[2023-02-19 13:56:41,981: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[93afe493-1b1f-45b0-9303-b804af4417c2] succeeded in 10.01543725400552s: True
+[2023-02-19 13:56:42,132: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[cae5bf20-4b17-48bc-b551-291586ef70dc] succeeded in 10.04123796299973s: True
+[2023-02-19 13:56:42,245: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[7f3f23af-c043-4121-a47b-d6c6a097673e] succeeded in 10.01153046300169s: True
+[2023-02-19 13:56:42,356: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[ab0c3c01-e86b-43bd-9b54-9ffa16f435dc] succeeded in 10.009858712997811s: True
+[2023-02-19 13:56:42,515: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[8dc8a9fa-0824-45b4-9a26-f6fba0bf338a] succeeded in 10.012039338005707s: True
+[2023-02-19 13:56:42,648: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[27364de5-787e-4cbc-9140-f9890510372e] succeeded in 10.009612796995498s: True
+[2023-02-19 13:56:42,818: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[b5236f99-0439-4b87-979e-4d8d8ad9172e] succeeded in 10.019551796001906s: True
+[2023-02-19 13:56:46,688: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[fe3dd3fe-3b8a-4fd2-a61d-6f1d0088b26a] succeeded in 10.001050087004842s: True
+[2023-02-19 13:56:50,104: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[5347afb6-733a-458c-a2b8-a68ed8cea277] succeeded in 10.002194213004259s: True
+[2023-02-19 13:56:50,677: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[7aa38e3a-b7f2-4241-ad0d-db900fa9b4f0] succeeded in 10.00719312900037s: True
+[2023-02-19 13:56:51,029: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[35e19111-1aa2-466f-a636-96d89f2fa6a4] succeeded in 10.005478587998368s: True
+[2023-02-19 13:56:51,509: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[68386d21-a876-43dd-8fa4-7c2dcfd1a321] succeeded in 10.006977462995565s: True
+[2023-02-19 13:56:51,641: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[7bc44f65-8db3-4080-9206-3f9b4a63a391] succeeded in 10.006284962000791s: True
+[2023-02-19 13:56:51,757: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[ce48a84c-9873-4a38-bf7a-f8ecc91ee688] succeeded in 10.007939421004266s: True
+[2023-02-19 13:56:51,874: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[eaccd608-78b0-45e8-9f15-6fbc0e55df66] succeeded in 10.007109211997886s: True
+[2023-02-19 13:56:51,994: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[cd47a4e2-9eff-41d8-a96e-7916a48d0cb8] succeeded in 10.005643295997288s: True
+[2023-02-19 13:56:52,142: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[0ea9e55d-e78f-4fd9-be27-ac0c9870a55b] succeeded in 10.002763671000139s: True
+[2023-02-19 13:56:52,261: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[68efe045-b24e-439c-b68b-5c46fa10a1a1] succeeded in 10.007862421000027s: True
+[2023-02-19 13:56:52,372: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[df69e199-044a-4b3d-8e64-c693396b386a] succeeded in 10.0052048380021s: True
+[2023-02-19 13:57:01,147: INFO/MainProcess] Task tasks.sample_tasks.create_task[32f5fd3d-4fdb-4175-8878-975103ea65b4] received
+[2023-02-19 13:57:01,269: INFO/MainProcess] Task tasks.sample_tasks.create_task[fa02931b-583c-4d94-b760-1a42d050aac8] received
+[2023-02-19 13:57:01,439: INFO/MainProcess] Task tasks.sample_tasks.create_task[6f18bd08-306c-4d56-9378-8a06bd875577] received
+[2023-02-19 13:57:01,547: INFO/MainProcess] Task tasks.sample_tasks.create_task[0512824a-a72d-40cf-a363-331b972026dd] received
+[2023-02-19 13:57:01,693: INFO/MainProcess] Task tasks.sample_tasks.create_task[9976aa82-b811-48f4-8eaa-ec46bdc8db17] received
+[2023-02-19 13:57:01,815: INFO/MainProcess] Task tasks.sample_tasks.create_task[13468f93-673e-4551-bd19-b1926e0da57a] received
+[2023-02-19 13:57:01,962: INFO/MainProcess] Task tasks.sample_tasks.create_task[3e696a7b-da91-4184-b7db-1e1bf834e4b5] received
+[2023-02-19 13:57:02,077: INFO/MainProcess] Task tasks.sample_tasks.create_task[a4df7eb6-c7e2-4ef0-83c8-910b49bff61c] received
+[2023-02-19 13:57:02,215: INFO/MainProcess] Task tasks.sample_tasks.create_task[343ddbc5-c66c-4399-967f-e881161ef001] received
+[2023-02-19 13:57:02,316: INFO/MainProcess] Task tasks.sample_tasks.create_task[b6c47851-07bc-4045-b323-01603f8e93b3] received
+[2023-02-19 13:57:02,444: INFO/MainProcess] Task tasks.sample_tasks.create_task[0a892374-96e5-4bf6-ab25-39945c471c74] received
+[2023-02-19 13:57:02,574: INFO/MainProcess] Task tasks.sample_tasks.create_task[e4142167-61b7-4838-a8d7-d5b2e6480068] received
+[2023-02-19 13:57:02,738: INFO/MainProcess] Task tasks.sample_tasks.create_task[0d8a6d4a-eb85-48f5-94ac-0557b0e46046] received
+[2023-02-19 13:57:02,890: INFO/MainProcess] Task tasks.sample_tasks.create_task[0ff6ffc8-1e1e-44aa-8526-6d646a1345ac] received
+[2023-02-19 13:57:03,020: INFO/MainProcess] Task tasks.sample_tasks.create_task[48fbe014-d36d-40d2-9578-08c33bae6e3e] received
+[2023-02-19 13:57:03,158: INFO/MainProcess] Task tasks.sample_tasks.create_task[8eb77656-215f-48e5-bba2-741ec3c8f565] received
+[2023-02-19 13:57:03,295: INFO/MainProcess] Task tasks.sample_tasks.create_task[ccc36fee-cb4f-45ef-8b9e-ee60e37d440b] received
+[2023-02-19 13:57:03,447: INFO/MainProcess] Task tasks.sample_tasks.create_task[f91c0dc8-3016-4820-85b3-34a77dd8c540] received
+[2023-02-19 13:57:03,574: INFO/MainProcess] Task tasks.sample_tasks.create_task[58d6c503-aa6a-4331-9135-e2365a5ef417] received
+[2023-02-19 13:57:03,712: INFO/MainProcess] Task tasks.sample_tasks.create_task[7ba39f18-3cdd-416c-9bec-1b461f317140] received
+[2023-02-19 13:57:03,838: INFO/MainProcess] Task tasks.sample_tasks.create_task[c193cbb6-4bbf-4360-91fd-c84c608811c7] received
+[2023-02-19 13:57:04,012: INFO/MainProcess] Task tasks.sample_tasks.create_task[ff511139-879f-4c87-b5c9-6925125340e7] received
+[2023-02-19 13:57:04,169: INFO/MainProcess] Task tasks.sample_tasks.create_task[8c43232d-735e-4e76-8659-923dea5a8252] received
+[2023-02-19 13:57:04,302: INFO/MainProcess] Task tasks.sample_tasks.create_task[57163503-c7b1-4bea-b447-e037082e1e2d] received
+[2023-02-19 13:57:04,436: INFO/MainProcess] Task tasks.sample_tasks.create_task[fddf0f87-a1dd-4f0c-a336-066fabeec890] received
+[2023-02-19 13:57:04,590: INFO/MainProcess] Task tasks.sample_tasks.create_task[90354e75-87af-45e6-9598-709e75a7b322] received
+[2023-02-19 13:57:04,722: INFO/MainProcess] Task tasks.sample_tasks.create_task[37f32330-67c5-4b72-8dcc-e4d6f5bdb09d] received
+[2023-02-19 13:57:04,847: INFO/MainProcess] Task tasks.sample_tasks.create_task[9445def4-b0f0-48e3-a8e1-686f91e306df] received
+[2023-02-19 13:57:05,027: INFO/MainProcess] Task tasks.sample_tasks.create_task[3df7b2a3-89e0-4ea5-a05c-bc887ed589dd] received
+[2023-02-19 13:57:05,160: INFO/MainProcess] Task tasks.sample_tasks.create_task[aafe15dd-922f-40cc-bdab-006010b3739d] received
+[2023-02-19 13:57:05,342: INFO/MainProcess] Task tasks.sample_tasks.create_task[2ac5be36-809e-4a83-94eb-1a8a6916251f] received
+[2023-02-19 13:57:05,481: INFO/MainProcess] Task tasks.sample_tasks.create_task[cffb5d8e-ae51-4d04-b906-c6cdfd4a9d76] received
+[2023-02-19 13:57:05,638: INFO/MainProcess] Task tasks.sample_tasks.create_task[57ac19ff-a4e5-48aa-aee6-45853c30d3cf] received
+[2023-02-19 13:57:05,810: INFO/MainProcess] Task tasks.sample_tasks.create_task[facb3690-26d0-4ff4-8e47-049e4fbf4de9] received
+[2023-02-19 13:57:05,945: INFO/MainProcess] Task tasks.sample_tasks.create_task[9dd2c3cc-4e52-4e23-adf4-18834c18bc2c] received
+[2023-02-19 13:57:06,105: INFO/MainProcess] Task tasks.sample_tasks.create_task[27881ae0-fef8-46a4-8434-eba27d6f40d2] received
+[2023-02-19 13:57:06,258: INFO/MainProcess] Task tasks.sample_tasks.create_task[5317c7fe-caf0-463a-b45c-6b25f588a0b5] received
+[2023-02-19 13:57:06,402: INFO/MainProcess] Task tasks.sample_tasks.create_task[0f5d7548-4b01-486b-b81c-24aef67c39c6] received
+[2023-02-19 13:57:06,558: INFO/MainProcess] Task tasks.sample_tasks.create_task[9c495efe-5eea-415c-ab30-34243bd250d9] received
+[2023-02-19 13:57:06,724: INFO/MainProcess] Task tasks.sample_tasks.create_task[adbc52d4-08bb-4bca-a19b-c967b4ef32a8] received
+[2023-02-19 13:57:06,873: INFO/MainProcess] Task tasks.sample_tasks.create_task[3bb835dd-1e56-4e1b-ad04-2733a4a5b053] received
+[2023-02-19 13:57:07,068: INFO/MainProcess] Task tasks.sample_tasks.create_task[00991bfa-3b54-48b6-ad20-eac53c196416] received
+[2023-02-19 13:57:07,242: INFO/MainProcess] Task tasks.sample_tasks.create_task[8c6978eb-57a7-43f2-a5a6-3b5986e38fd6] received
+[2023-02-19 13:57:07,398: INFO/MainProcess] Task tasks.sample_tasks.create_task[07ffd702-75eb-4849-9ff4-1d66aa3de437] received
+[2023-02-19 13:57:07,559: INFO/MainProcess] Task tasks.sample_tasks.create_task[03e807bc-e7be-472e-b861-b05d9c5265dc] received
+[2023-02-19 13:57:07,714: INFO/MainProcess] Task tasks.sample_tasks.create_task[16d01707-8334-4090-8f4b-cad64e97a55d] received
+[2023-02-19 13:57:07,862: INFO/MainProcess] Task tasks.sample_tasks.create_task[00a3f5e9-6970-4f3b-b9b9-7439b54dc476] received
+[2023-02-19 13:57:08,029: INFO/MainProcess] Task tasks.sample_tasks.create_task[6be7c458-3a44-4ed1-a275-08699bb5aa89] received
+[2023-02-19 13:57:08,175: INFO/MainProcess] Task tasks.sample_tasks.create_task[5492273d-419a-4fcf-bf12-1ae395b5937e] received
+[2023-02-19 13:57:08,300: INFO/MainProcess] Task tasks.sample_tasks.create_task[188b7908-4b54-4980-b90c-2c851833058a] received
+[2023-02-19 13:57:08,474: INFO/MainProcess] Task tasks.sample_tasks.create_task[2324d1ba-b21b-4814-9ead-1263c989fdf0] received
+[2023-02-19 13:57:08,617: INFO/MainProcess] Task tasks.sample_tasks.create_task[e9f84a0e-ea26-4a0b-bf7b-3a82815b9f60] received
+[2023-02-19 13:57:08,749: INFO/MainProcess] Task tasks.sample_tasks.create_task[2f2d1576-be40-4ea9-8a4c-07896096ca05] received
+[2023-02-19 13:57:08,894: INFO/MainProcess] Task tasks.sample_tasks.create_task[6b0c9fc2-cb42-4892-905e-ea6233ad9bd2] received
+[2023-02-19 13:57:09,030: INFO/MainProcess] Task tasks.sample_tasks.create_task[6be5814d-cece-4a82-8704-2979a0033442] received
+[2023-02-19 13:57:09,178: INFO/MainProcess] Task tasks.sample_tasks.create_task[da469dd4-1b01-4c26-8a41-04bb4387b677] received
+[2023-02-19 13:57:19,658: INFO/MainProcess] Task tasks.sample_tasks.create_task[dd189473-9f2c-4550-b872-88d8409bf423] received
+[2023-02-19 13:57:19,880: INFO/MainProcess] Task tasks.sample_tasks.create_task[54d8ea98-1148-4061-ad5b-88af115fda41] received
+[2023-02-19 13:57:20,520: INFO/MainProcess] Task tasks.sample_tasks.create_task[546c6728-e8d5-4dd3-8cac-075b3d62c937] received
+[2023-02-19 13:57:20,798: INFO/MainProcess] Task tasks.sample_tasks.create_task[6ff421f9-d18e-4e97-9b36-2f40aa90068c] received
+[2023-02-19 13:57:21,115: INFO/MainProcess] Task tasks.sample_tasks.create_task[28c1bb22-e3d7-4b61-a14a-68fa13c149b4] received
+[2023-02-19 13:57:21,404: INFO/MainProcess] Task tasks.sample_tasks.create_task[a506a5c8-f863-47a9-9d64-82d4f6bd3a20] received
+[2023-02-19 13:57:21,694: INFO/MainProcess] Task tasks.sample_tasks.create_task[8f5e61e6-afbc-416a-8ada-97e0e79ec5c4] received
+[2023-02-19 13:57:31,173: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[32f5fd3d-4fdb-4175-8878-975103ea65b4] succeeded in 30.01538730500033s: True
+[2023-02-19 13:57:31,289: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[fa02931b-583c-4d94-b760-1a42d050aac8] succeeded in 30.008282972004963s: True
+[2023-02-19 13:57:31,468: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[6f18bd08-306c-4d56-9378-8a06bd875577] succeeded in 30.017329429996607s: True
+[2023-02-19 13:57:31,562: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[0512824a-a72d-40cf-a363-331b972026dd] succeeded in 30.00771368000278s: True
+[2023-02-19 13:57:31,727: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[9976aa82-b811-48f4-8eaa-ec46bdc8db17] succeeded in 30.024436929998046s: True
+[2023-02-19 13:57:31,860: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[13468f93-673e-4551-bd19-b1926e0da57a] succeeded in 30.025360471001477s: True
+[2023-02-19 13:57:31,988: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[3e696a7b-da91-4184-b7db-1e1bf834e4b5] succeeded in 30.018032013002085s: True
+[2023-02-19 13:57:32,117: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[a4df7eb6-c7e2-4ef0-83c8-910b49bff61c] succeeded in 30.012266388999706s: True
+[2023-02-19 13:57:32,228: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[343ddbc5-c66c-4399-967f-e881161ef001] succeeded in 30.00543876300071s: True
+[2023-02-19 13:57:32,335: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[b6c47851-07bc-4045-b323-01603f8e93b3] succeeded in 30.012538889001007s: True
+[2023-02-19 13:57:32,472: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[0a892374-96e5-4bf6-ab25-39945c471c74] succeeded in 30.006528846002766s: True
+[2023-02-19 13:57:32,587: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[e4142167-61b7-4838-a8d7-d5b2e6480068] succeeded in 30.006319097003143s: True
+[2023-02-19 13:57:32,760: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[0d8a6d4a-eb85-48f5-94ac-0557b0e46046] succeeded in 30.013981680000143s: True
+[2023-02-19 13:57:32,934: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[0ff6ffc8-1e1e-44aa-8526-6d646a1345ac] succeeded in 30.019063888001256s: True
+[2023-02-19 13:57:33,060: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[48fbe014-d36d-40d2-9578-08c33bae6e3e] succeeded in 30.02792242999567s: True
+[2023-02-19 13:58:01,219: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[8eb77656-215f-48e5-bba2-741ec3c8f565] succeeded in 30.01828255500004s: True
+[2023-02-19 13:58:01,323: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[ccc36fee-cb4f-45ef-8b9e-ee60e37d440b] succeeded in 30.014817971998127s: True
+[2023-02-19 13:58:01,491: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[f91c0dc8-3016-4820-85b3-34a77dd8c540] succeeded in 30.01414088900492s: True
+[2023-02-19 13:58:01,590: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[58d6c503-aa6a-4331-9135-e2365a5ef417] succeeded in 30.021779221999168s: True
+[2023-02-19 13:58:01,747: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[7ba39f18-3cdd-416c-9bec-1b461f317140] succeeded in 30.0128886389939s: True
+[2023-02-19 13:58:01,885: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[c193cbb6-4bbf-4360-91fd-c84c608811c7] succeeded in 30.01473193100537s: True
+[2023-02-19 13:58:02,016: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[ff511139-879f-4c87-b5c9-6925125340e7] succeeded in 30.00852243000554s: True
+[2023-02-19 13:58:02,153: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[8c43232d-735e-4e76-8659-923dea5a8252] succeeded in 30.0241347639967s: True
+[2023-02-19 13:58:02,240: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[57163503-c7b1-4bea-b447-e037082e1e2d] succeeded in 30.006722179998178s: True
+[2023-02-19 13:58:02,352: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[fddf0f87-a1dd-4f0c-a336-066fabeec890] succeeded in 30.005141097004525s: True
+[2023-02-19 13:58:02,485: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[90354e75-87af-45e6-9598-709e75a7b322] succeeded in 30.0063658470026s: True
+[2023-02-19 13:58:02,603: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[37f32330-67c5-4b72-8dcc-e4d6f5bdb09d] succeeded in 30.006508180995297s: True
+[2023-02-19 13:58:02,783: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[9445def4-b0f0-48e3-a8e1-686f91e306df] succeeded in 30.0086972220015s: True
+[2023-02-19 13:58:02,959: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[3df7b2a3-89e0-4ea5-a05c-bc887ed589dd] succeeded in 30.007904221994977s: True
+[2023-02-19 13:58:03,092: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[aafe15dd-922f-40cc-bdab-006010b3739d] succeeded in 30.022569805005332s: True
+[2023-02-19 13:58:31,246: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[2ac5be36-809e-4a83-94eb-1a8a6916251f] succeeded in 30.010400512997876s: True
+[2023-02-19 13:58:31,373: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[cffb5d8e-ae51-4d04-b906-c6cdfd4a9d76] succeeded in 30.025849972000287s: True
+[2023-02-19 13:58:31,528: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[57ac19ff-a4e5-48aa-aee6-45853c30d3cf] succeeded in 30.02084234599897s: True
+[2023-02-19 13:58:31,607: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[facb3690-26d0-4ff4-8e47-049e4fbf4de9] succeeded in 30.008754096998018s: True
+[2023-02-19 13:58:31,778: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[9dd2c3cc-4e52-4e23-adf4-18834c18bc2c] succeeded in 30.009083805001865s: True
+[2023-02-19 13:58:31,898: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[27881ae0-fef8-46a4-8434-eba27d6f40d2] succeeded in 30.007092097002896s: True
+[2023-02-19 13:58:32,040: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[5317c7fe-caf0-463a-b45c-6b25f588a0b5] succeeded in 30.013328763001482s: True
+[2023-02-19 13:58:32,175: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[0f5d7548-4b01-486b-b81c-24aef67c39c6] succeeded in 30.007447637995938s: True
+[2023-02-19 13:58:32,251: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[9c495efe-5eea-415c-ab30-34243bd250d9] succeeded in 30.004041139000037s: True
+[2023-02-19 13:58:32,380: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[adbc52d4-08bb-4bca-a19b-c967b4ef32a8] succeeded in 30.006777055001294s: True
+[2023-02-19 13:58:32,511: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[3bb835dd-1e56-4e1b-ad04-2733a4a5b053] succeeded in 30.01870330500242s: True
+[2023-02-19 13:58:32,618: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[00991bfa-3b54-48b6-ad20-eac53c196416] succeeded in 30.007319389005715s: True
+[2023-02-19 13:58:32,801: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[8c6978eb-57a7-43f2-a5a6-3b5986e38fd6] succeeded in 30.008419679994404s: True
+[2023-02-19 13:58:32,994: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[07ffd702-75eb-4849-9ff4-1d66aa3de437] succeeded in 30.02674917999684s: True
+[2023-02-19 13:58:33,111: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[03e807bc-e7be-472e-b861-b05d9c5265dc] succeeded in 30.00827622199722s: True
+[2023-02-19 13:58:42,628: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[dd189473-9f2c-4550-b872-88d8409bf423] succeeded in 10.003531005000696s: True
+[2023-02-19 13:58:43,006: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[28c1bb22-e3d7-4b61-a14a-68fa13c149b4] succeeded in 10.00685400400107s: True
+[2023-02-19 13:58:52,823: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[54d8ea98-1148-4061-ad5b-88af115fda41] succeeded in 20.00347584199335s: True
+[2023-02-19 13:59:01,270: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[16d01707-8334-4090-8f4b-cad64e97a55d] succeeded in 30.004218847003358s: True
+[2023-02-19 13:59:01,381: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[00a3f5e9-6970-4f3b-b9b9-7439b54dc476] succeeded in 30.001881930998934s: True
+[2023-02-19 13:59:01,541: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[6be7c458-3a44-4ed1-a275-08699bb5aa89] succeeded in 30.00403372200526s: True
+[2023-02-19 13:59:01,618: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[5492273d-419a-4fcf-bf12-1ae395b5937e] succeeded in 30.00613105500088s: True
+[2023-02-19 13:59:01,794: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[188b7908-4b54-4980-b90c-2c851833058a] succeeded in 30.002379429999564s: True
+[2023-02-19 13:59:01,922: INFO/ForkPoolWorker-5] Task tasks.sample_tasks.create_task[2324d1ba-b21b-4814-9ead-1263c989fdf0] succeeded in 30.00647917999595s: True
+[2023-02-19 13:59:02,063: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[e9f84a0e-ea26-4a0b-bf7b-3a82815b9f60] succeeded in 30.006122262995632s: True
+[2023-02-19 13:59:02,191: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[2f2d1576-be40-4ea9-8a4c-07896096ca05] succeeded in 30.01059609699587s: True
+[2023-02-19 13:59:02,258: INFO/ForkPoolWorker-4] Task tasks.sample_tasks.create_task[6b0c9fc2-cb42-4892-905e-ea6233ad9bd2] succeeded in 30.0033678050022s: True
+[2023-02-19 13:59:02,393: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[6be5814d-cece-4a82-8704-2979a0033442] succeeded in 30.008562722003262s: True
+[2023-02-19 13:59:02,523: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[da469dd4-1b01-4c26-8a41-04bb4387b677] succeeded in 30.006974556003115s: True
+[2023-02-19 13:59:02,652: INFO/ForkPoolWorker-1] Task tasks.sample_tasks.create_task[a506a5c8-f863-47a9-9d64-82d4f6bd3a20] succeeded in 20.004211717001454s: True
+[2023-02-19 13:59:03,129: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[546c6728-e8d5-4dd3-8cac-075b3d62c937] succeeded in 30.00299647200154s: True
+[2023-02-19 13:59:12,855: INFO/ForkPoolWorker-2] Task tasks.sample_tasks.create_task[6ff421f9-d18e-4e97-9b36-2f40aa90068c] succeeded in 20.00850542599801s: True
+[2023-02-19 13:59:31,307: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[8f5e61e6-afbc-416a-8ada-97e0e79ec5c4] succeeded in 30.01461217999895s: True
+[2023-02-19 14:09:19,775: INFO/MainProcess] Task tasks.sample_tasks.create_task[1dcc43f5-6b4b-4ee3-abb6-5bb69efef5f1] received
+[2023-02-19 14:09:19,790: INFO/ForkPoolWorker-3] Task tasks.sample_tasks.create_task[1dcc43f5-6b4b-4ee3-abb6-5bb69efef5f1] succeeded in 0.007546084001660347s: True
