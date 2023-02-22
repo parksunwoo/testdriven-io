@@ -1,0 +1,22 @@
+#! /bin/sh
+
+if [ -z "$DIGITAL_OCEAN_IP_ADDRESS" ]
+then
+    echo "DIGITAL_OCEAN_IP_ADDRESS not defined"
+    exit 0
+fi
+
+git archive --format=tar --output ./project.tar master
+
+echo 'Uploading project...'
+rsync ./project.tar root@$DIGITAL_OCEAN_IP_ADDRESS:/tmp/project.tar
+echo 'Uploaded complete.'
+
+echo 'Building image...'
+ssh -o StrictHostKeyChecking=no root@$DIGITAL_OCEAN_IP_ADDRESS << 'ENDSSH'
+    mkdir -p /app
+    rm -rf /app/* && tar -xf /tmp/project.tar -C /app
+    docker-compose -f /app/docker-compose.prod.yml build
+    supervisorctl restart docker-app
+ENDSSH
+echo 'Build complete.'
